@@ -1,5 +1,7 @@
 package br.com.jamesson.creational.abstract_factory;
 
+// abstract product
+
 public abstract class Guincho {
 	private Porte porte;
 	

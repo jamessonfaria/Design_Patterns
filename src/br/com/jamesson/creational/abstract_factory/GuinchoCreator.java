@@ -1,6 +1,8 @@
 package br.com.jamesson.creational.abstract_factory;
 import org.omg.CORBA.portable.ApplicationException;
 
+// factory
+
 public class GuinchoCreator {
 
 	private GuinchoCreator() {

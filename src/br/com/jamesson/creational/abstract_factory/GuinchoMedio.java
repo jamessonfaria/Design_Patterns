@@ -1,5 +1,7 @@
 package br.com.jamesson.creational.abstract_factory;
 
+// produto concreto
+
 public class GuinchoMedio extends Guincho {
 
 	protected GuinchoMedio(Porte porte) {

@@ -2,6 +2,8 @@ package br.com.jamesson.creational.abstract_factory;
 
 import org.omg.CORBA.portable.ApplicationException;
 
+// concrete factory
+
 public class SocorroVeiculoGrande implements AutoSocorroFactory{
 
 	@Override

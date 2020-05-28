@@ -5,6 +5,8 @@ import java.util.List;
 
 import org.omg.CORBA.portable.ApplicationException;
 
+// execucao do abstract factory
+
 public class ExecucaoAbstractFactory {
 
 	private ExecucaoAbstractFactory() {}
